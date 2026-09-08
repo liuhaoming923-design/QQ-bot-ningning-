@@ -48,7 +48,7 @@ QQ群 → NapCatQQ →(反向 WebSocket)→ NoneBot2 → 插件逻辑 → DeepSe
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/你的用户名/QQ-bot-ningning-.git
+git clone https://github.com/liuhaoming923-design/QQ-bot-ningning-.git
 cd QQ-bot-ningning-/qq-bot
 ```
 
